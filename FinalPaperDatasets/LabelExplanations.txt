@@ -1,0 +1,6 @@
+Explanation of the labels for the final label column
+
+0: Not offensive
+1: Labeled as ambiguous by the labelers
+2: Offensive
+-3: Ambiguous since one labeler said 0 and the other said 2.
